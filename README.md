@@ -18,5 +18,5 @@ after cloning this to your repo open code editor and open code editior terminaal
 
 
 
-
+IT WILL BE LOOK LIKE THIS 
 ![Project Overview](https://github.com/kamran241/Document-Retrieval-Augmented-Generation/blob/main/Screenshot%202025-04-17%20150132.png)
