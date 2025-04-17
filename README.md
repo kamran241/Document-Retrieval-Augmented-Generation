@@ -19,4 +19,4 @@ after cloning this to your repo open code editor and open code editior terminaal
 
 
 
-![Project Overview](https://github.com/kamran241/Document-Retrieval-Augmented-Generation/tree/main)
+![Project Overview](https://github.com/kamran241/Document-Retrieval-Augmented-Generation/blob/main/Screenshot%202025-04-17%20150132.png)
